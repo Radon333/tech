@@ -1,1 +1,1 @@
-# tech it is a restaurant management system program developed using java.
+# tech is a java based project:developed by Radon333
