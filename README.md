@@ -1,1 +1,1 @@
-# tech is a java based project:developed by Radon333
+# My first github repository to learn github and git
